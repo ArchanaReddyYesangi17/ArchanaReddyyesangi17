@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://via.placeholder.com/150" width="150" style="border-radius: 50%;" alt="Archana Reddy Yesangi"/>
+<img src="archana_profile.png" width="150" style="border-radius: 50%;" alt="Archana Reddy Yesangi"/>
 
 # Archana Reddy Yesangi
 
