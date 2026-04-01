@@ -8,7 +8,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/archana-reddy-yasangi-819858172/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:archanary17@gmail.com)
-[![Phone](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+17738855459)
+[![Phone](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/17738855459)
+
 [![Location](https://img.shields.io/badge/Chicago%2C_IL-0078D4?style=for-the-badge&logo=googlemaps&logoColor=white)](https://maps.google.com/?q=Chicago,IL)
 
 </div>
