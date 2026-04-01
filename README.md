@@ -119,20 +119,6 @@ Senior Platform & DevOps Engineer with **7+ years** of hands-on experience archi
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=archana-reddy-yasangi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=archana-reddy-yasangi&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=archana-reddy-yasangi&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
 ## Certifications
 
 | Certification | Issuer |
