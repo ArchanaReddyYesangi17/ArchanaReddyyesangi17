@@ -118,6 +118,9 @@ Senior Platform & DevOps Engineer with **7+ years** of hands-on experience archi
 `GitHub Copilot` `Azure OpenAI` `AKS` `Terraform` `Python` `Bash` `Azure DevOps`
 
 ---
+## 🚀 Projects Portfolio
+
+🔗 [Click here to view all projects](./PROJECTS.md)
 
 ## Certifications
 
